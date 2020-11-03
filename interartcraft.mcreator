@@ -1,0 +1,45 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "LodeStone",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LodeStoneRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.interartcraft.lodestone": "Lode Stone"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "interartcraft",
+    "modName": "Inter.Art.Craft",
+    "version": "1.0.0",
+    "author": "owner",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.14.4",
+    "usesProFeatures": false,
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000105419
+}
